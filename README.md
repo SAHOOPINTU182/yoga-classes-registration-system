@@ -174,6 +174,14 @@ http://localhost/Yoga_Project/register.php
 
 ---
 
+👨‍💻 Author
+Pintu Sahoo
+
+MCA Student | Java Developer | Cloud Computing Enthusiast
+
+GitHub: https://github.com/SAHOOPINTU182
+
+LinkedIn: https://linkedin.com/in/pintu-sahoo-086436236
 ## 📧 Contact
 
 **Email:** pintusahoo982772@gmail.com
